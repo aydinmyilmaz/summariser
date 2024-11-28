@@ -1,0 +1,38 @@
+### 2. Guidelines for “Objective” Section
+
+This section is the main body of the Executive Summary. It shall adhere to a maximum length of 1 page (2 pages in exceptional cases) and may be split into further subsections to enhance the structure and readability of the content. The following information is to be provided:
+
+- **Optional**: Additional elaboration of topic progress connecting to “1. Description” and leading to the objective of the topic.
+
+- **Detailed elaboration of topic objective and desired IDAC outcome**, entailing:
+  - A purely informational perspective
+  - Concrete actions expected from IDAC (participants)
+  - Required IDAC approvals, indicated by the following terminologies:
+
+    - **Information – “inform”**
+      An update to the IDAC that does not require official acknowledgment or approval.
+
+    - **Acknowledgement – “acknowledge”**
+      A matter that shall be explicitly accepted and recognized as true by the IDAC but does not require approval (e.g., because its final decision authority lies with another entity).
+
+    - **Request/Assignment – “ask”/“task”**
+      The IDAC assigns a certain action and requires a follow-up.
+
+    - **Approval – “approve”**
+      A matter that shall receive official permission to stand/proceed with by the IDAC.
+
+In case any illustration (e.g., table, screenshot of a PPT slide) is supportive in understanding the rationale leading to the objective, integrate it as a figure within the text, including a description (e.g., “Figure 1: Overview of …”). Outline key business outcomes to be addressed by this topic, including relevant information regarding the substance of the proposal/topic and a brief description of why a particular solution was adopted.
+
+---
+
+#### 2.1 Wording Guidelines for Objectives
+
+This section elaborates on the proposal introduced in the Description section.
+
+- **Objective Statement**: Provide details on the proposal (if necessary). Define and describe the main goal of the proposal and what the initiatives aim to contribute to.
+  Example:
+  > "The objective of this _Committee_name_ is to receive approval of ... (e.g., a set of harmonized KPIs to progress towards a xx% globally harmonized reporting structure, leveraging the defined approach and governance)."
+
+- **Goals and Decisions**: Detail the decisions required from the committee to move forward.
+  Example:
+  > "A decision from the committee is needed on point xx. Following approval in the _Month_ _Committee_name_ to initiate a deeper investigation of the newly proposed ..."

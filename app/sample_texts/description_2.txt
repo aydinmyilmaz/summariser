@@ -1,0 +1,17 @@
+Meeting Name: International Data & Analytics Committee (IDAC)
+Meeting Date: 15 November 2024
+Agenda Topic Name: AI-Driven Product Description Generation System
+Submitted By: Dr. Jane Doe (MD-level)
+Estimated time: 30 minutes
+Decision to be made: Yes – Approval to proceed with Phase 2 pilot program
+Attachments: Yes – Supporting data and pilot results (Attachment 1)
+1. Description
+Where do we come from?
+The IDAC initiated the AI-Driven Product Description Generation System project in March 2024 to streamline and enhance the quality of product descriptions across digital platforms. This initiative was in response to the growing demand for personalized, high-quality content that aligns with the company’s global branding guidelines and improves customer engagement metrics. Phase 1 focused on developing a machine learning model capable of generating product descriptions that meet our key business standards, using a training dataset comprising 10,000 descriptions from our top product categories.
+
+Since the completion of Phase 1, the AI model has generated descriptions for over 1,500 SKUs (Stock Keeping Units) in a pilot involving two regional markets (UK and Germany). Key performance metrics, including click-through rates (CTR), engagement time, and conversion rates, have improved by 15%, 12%, and 10%, respectively, compared to previous manually written descriptions. Feedback from regional content managers highlighted the model's consistency and alignment with branding guidelines but noted areas for improvement in adapting descriptions to regional preferences.
+
+Why is this topic important?
+As the company expands its product offerings and market reach, the demand for scalable content solutions that maintain quality and brand alignment has become increasingly critical. This project addresses the challenges of scaling content creation, reducing costs associated with manual copywriting, and enhancing customer experience by providing accurate, engaging, and SEO-optimized product descriptions across multiple markets.
+
+By leveraging AI-driven solutions, we aim to improve operational efficiency and establish a harmonized content approach that supports our global e-commerce strategy. Approval to proceed with Phase 2 of the pilot will enable us to further refine the model with a broader dataset, incorporating feedback and fine-tuning the system for deployment across additional markets.

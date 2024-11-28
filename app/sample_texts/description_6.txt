@@ -1,0 +1,8 @@
+Date: [Insert Date]  
+Topic Name: [Insert Topic Name]  
+Owner: [Insert Owner Name]  
+Time Estimation: [Insert Time Estimation]  
+
+Our AI platform for stores commenced last month, demonstrating promising results across various locations. The proof of concept (POC) was successfully executed in five locations, utilising machine learning (ML) algorithms to analyse customer behaviour and optimise product placement. Key performance indicators (KPIs) indicate a 40% improvement in conversion rates, resulting in an additional profit of $2.5 million. This topic is crucial as our competitors are implementing similar technologies, and it is imperative that we maintain our competitive edge. The system employs cutting-edge artificial intelligence (AI) and machine learning (ML) to monitor customer flow, identify hot and cold zones, analyse purchase patterns, assess dwell time, and conduct cart analysis.
+
+Since the rollout in Q3, store managers have reported a 50% increase in sales in premium areas, a 25% boost in customer engagement, a 65% reduction in staff time spent on analysis, and a return on investment (ROI) of 300%. The technology stack comprises computer vision, predictive analytics, real-time optimisation, and cloud processing. In the previous IDAC meeting, we discussed the initial phases of our AI platform implementation, which aimed to enhance customer engagement and optimise product placement. Since then, we have successfully completed a proof of concept in five locations, yielding promising results. The increasing adoption of AI technologies by our competitors necessitates a proactive approach to ensure we remain at the forefront of innovation. This initiative is vital for sustaining our market position and driving future growth.

@@ -1,0 +1,41 @@
+### Content Guidelines for “Description” Section
+
+This section is the introduction to the main body of the Executive Summary. It shall adhere to a maximum length of 0.5 pages. The following information is to be provided:
+
+##### Where do we come from?
+
+Recap or summary of previous updates and relevant decisions made (e.g., past IDAC task or decision), including a description of progress since the previous update with a focus on key business goals and respective milestones/outcomes achieved.
+
+##### Why is this topic important?
+
+Background/circumstances leading to this topic being placed on the agenda, highlighting its importance for MD-level IDAC participants (e.g., impact on global D&A strategy, ensuring execution of operating principles like centralization, required as per IFA request, preventing impact on business operations). Provide a brief outline of the circumstances leading to this topic being placed on the agenda, including any business challenges the agenda topic proposes to deal with.
+
+---
+
+#### Wording Guideline for "Description" section
+
+The section provides a clear overview of the project’s context and current status.
+
+##### • Context and Overview:
+Summarize the purpose of the topic. Clearly outline how it aligns with business goals and objectives.
+
+Example:
+> "This item aims to provide an overview on … (e.g., Data & Analytics use case development and will involve...)"
+
+##### • Updates and Proposal Overview:
+Outline the proposal or updates addressing challenges and goals.
+
+Example Template:
+> "This is a standing item for _Committee_name_ to present updates to _Committee_name_. This update will provide a status on _Committee_name_ achievements in _Year_ and next steps in _Year_."
+
+##### • Project Status and Approval Background:
+Update on project achievements, including recent milestones and relevant approvals from past meetings.
+
+Template:
+> "In alignment with this, IDA seeks an approval by the _Committee_name_ on the … including the corresponding …"
+
+##### • Financial Information:
+Incorporate any relevant financial details, such as EBIT targets for the current and upcoming years.
+
+Example Template:
+> "_Committee_name_ has achieved EUR xxxm of benefit in _Quarter Year_, representing xx% of the targeted EUR xxxm for _Year_."

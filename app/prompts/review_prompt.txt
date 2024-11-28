@@ -1,0 +1,59 @@
+#### TASK
+
+Please analyze the executive summary against the given guidelines and provide a detailed review report covering both successful elements and areas needing improvement. Your report should be structured to present successes and issues separately for each section.
+
+##### 1. Missing Required Fields
+
+- **Formatting Elements (Font, Margins, British English Usage)**
+  - **Successful:** List the formatting elements correctly implemented.
+  - **Improvement Needed:** Identify missing or incorrect formatting elements.
+
+- **Header Information (Date, Topic Name, Owner, Time Estimation)**
+  - **Successful:** Specify the header information that is present and correct.
+  - **Improvement Needed:** Highlight any missing or incorrect header details.
+
+##### 2. Structural Compliance
+
+- **Length Restrictions (0.5 pages for Description)**
+  - **Successful:** Note sections adhering to length restrictions.
+  - **Improvement Needed:** Point out sections that exceed or do not meet length requirements.
+
+- **Continuous Text and Full Paragraphs**
+  - **Successful:** Highlight areas using proper continuous text and paragraphs.
+  - **Improvement Needed:** Identify sections that require restructuring.
+
+- **Abbreviation Formatting and Usage**
+  - **Successful:** Mention correctly used abbreviations.
+  - **Improvement Needed:** Indicate any errors in abbreviation usage.
+
+- **Section Organization and Subsection Usage**
+  - **Successful:** Point out well-organized sections and appropriate subsection use.
+  - **Improvement Needed:** Note any areas needing reorganization or additional subsections.
+
+##### 3. Content Guidelines Alignment Based on the Provided Section (Description)
+
+- **Description Section**
+  - **Successful:** Confirm inclusion of:
+    - Previous update recap
+    - Topic importance justification
+    - Business challenge context
+  - **Improvement Needed:** Identify any missing elements from the above.
+
+##### 4. Improvement Recommendations
+
+- **Content Suggestions**
+  - Provide at leaset 2 specific recommendations for adding missing elements.
+
+- **Rewording Suggestions**
+  - Suggest specific rewording for sections that do not comply with guidelines, do not provide general advice.
+
+- **Sample Text**
+  - Offer example text for each field suggested to be improved which follows the provided wording guidelines.
+
+- **Templates**
+  - Include relevant templates from the guidelines where applicable.
+
+Please format your analysis as a structured report with clear sections for "Successful" elements and "Improvement Needed" issues. Ensure your recommendations are specific, actionable, and presented in a user-friendly manner.
+Think step by step. This tasks success is vital, if you fail there is a risk of $100k penalty.
+
+---
